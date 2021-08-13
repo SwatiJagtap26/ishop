@@ -1,0 +1,20 @@
+
+.head-store{
+    
+    background-color: #eeeeee;
+    height: 35px;
+    
+    
+}
+.heading-store{
+     
+    font-size: 12px;
+    font: normal 600 Proxima Nova;
+    
+    color: #33A0FF;
+    margin: auto;
+    width: 100%;
+    border: none;
+    padding: 10px;
+    text-align: center;
+}
